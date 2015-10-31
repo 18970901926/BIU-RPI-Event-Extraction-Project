@@ -1,0 +1,1 @@
+python /usr/lib/nlp/jars/easyfirst/ready/sdparser_server.py 8301
